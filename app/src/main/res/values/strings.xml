@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">XColor</string>
+    <string name="colorFinder">Color Finder</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
